@@ -11,7 +11,7 @@ from scoreboard import ScoreBoard
 screen = Screen()  #los parenesis indican que queremos que se cree un objeto
 screen.setup(width=600, height= 600) #aqui indicamos el tamaño del fondo
 screen.bgpic("space.png") #aqui le ponemos color al fondo
-screen.title("snake game") # aqui le decimos el titulo de arriba
+screen.title("snake game La serpiente astronauta") # aqui le decimos el titulo de arriba
 
 screen.tracer(0)  #anulamos la animacion automatica
 
